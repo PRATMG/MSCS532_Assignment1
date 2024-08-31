@@ -19,3 +19,13 @@ def insertion_sort_decreasing_order(arr):
         
         # Place the 'current_value' in its correct position.
         arr[pos + 1] = current_value
+
+
+if __name__ == "__main__":
+    #create a list of example numbers
+    arr = [14,17, 12, 8,1, 29, 10]
+
+    #sort the list in decreassing order
+    insertion_sort_decreasing_order(arr)
+    #print the sorted list
+    print("Insetion sort in decreasing order: ", arr)

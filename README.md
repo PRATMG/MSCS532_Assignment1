@@ -1,5 +1,5 @@
 # MSCS532_Assignment1
-# MSCS532 Assignment 1: Insertion Sort decreasing order
+## Insertion Sort decreasing order
 
 This Python script implements the Insertion Sort algorithm to sort an array in monotonically decreasing order.
 
